@@ -1,5 +1,6 @@
 #include<iostream>
 #include<fstream>
+#include "cache.h"
 
 using namespace std;
 
